@@ -3,6 +3,7 @@
     border-bottom: 10px solid $mainBlue;
     &__text-content {
         position: absolute;
+        padding-top: 60px;
         top: 50%;
         left: 0;
         width: 100%;
